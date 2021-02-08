@@ -1,7 +1,7 @@
 # Sonos-Remote-Station
 This is the source code of the Sonos-Remote-Station: https://twitter.com/tmjns92/status/1256179074495627264 
 
-### Run:
+### How to start:
 Make sure you're goint to integrate all the files into a PlatformIO project structure. Don't forget to edit these lines:
 
 ```c++
