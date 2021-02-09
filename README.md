@@ -2,7 +2,7 @@
 This is the source code of the Sonos-Remote-Station: https://twitter.com/tmjns92/status/1256179074495627264 
 
 ### How to start:
-Make sure you're goint to integrate all the files into a PlatformIO project structure. Don't forget to edit these lines:
+This project was built with the PlatformIO IDE. So, I recommend you to install the PlatformIO extension for Visual Studio Code before you start. Don't forget to edit these lines before uploading:
 
 ```c++
 #define SSID "________" // Your SSID
